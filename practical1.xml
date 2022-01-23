@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE student SYSTEM "student.dtd" >  
+<student>  
+ <name>Makhija Ashish</name>  
+ <field>IT</field>  
+ <sem>5th</sem>  
+ <enrollmentno>19BEIT30005</enrollmentno> 
+</student> 
